@@ -3,6 +3,7 @@ TERMUX_PKG_DESCRIPTION="A command-line tool for downloading APK files from vario
 TERMUX_PKG_LICENSE="MIT"
 TERMUX_PKG_MAINTAINER="@termux"
 TERMUX_PKG_VERSION=0.8.0
+TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/EFForg/apkeep/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=2b3ca13fc23f5e08ef52de76d02b3f6e0a9d39a02496b5a895c618c99264ddbe
 TERMUX_PKG_DEPENDS="openssl"
